@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountryInformationAPI", "CoutriesInformationAPI\CountryInformationAPI.csproj", "{4012422F-AF3B-46CB-8567-43D09FEB3BE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountryInformationClient", "CountiesInformationClient\CountryInformationClient.csproj", "{9942DB35-7F90-40DB-A9EA-0DC464721BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4012422F-AF3B-46CB-8567-43D09FEB3BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4012422F-AF3B-46CB-8567-43D09FEB3BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4012422F-AF3B-46CB-8567-43D09FEB3BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4012422F-AF3B-46CB-8567-43D09FEB3BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9942DB35-7F90-40DB-A9EA-0DC464721BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9942DB35-7F90-40DB-A9EA-0DC464721BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9942DB35-7F90-40DB-A9EA-0DC464721BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9942DB35-7F90-40DB-A9EA-0DC464721BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A91D459B-8398-43E7-A3ED-3449E6BB96F0}
+	EndGlobalSection
+EndGlobal
