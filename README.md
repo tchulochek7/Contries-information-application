@@ -1,2 +1,2 @@
 # Contry-information-application
-Application get inrormation about country from https://restcountries.eu service and add it into local database.
+This application receives the information about country from https://restcountries.eu service and adds it to the local database.
